@@ -6,7 +6,7 @@ package sort;
 
 /**
  *
- * @author 
+ * @author zhengqian
  */
 public class HeapSort {
 
